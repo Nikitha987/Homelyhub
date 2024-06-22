@@ -1,1 +1,3 @@
-# Homelyhub
+# StayInn
+
+Airbnb clone
